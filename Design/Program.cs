@@ -13,6 +13,7 @@
             return a + b;
         }
     }
+
     public class Test
     {
         private Details details;
@@ -59,6 +60,7 @@
             Test test = new Test();
             int ans = test.add_sum();
             Console.WriteLine(ans);
+            Console.WriteLine("Dinesh is a good boy");
             
 
 
